@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "write-spec": {
+      "source": "elliot-zen/skills",
+      "sourceType": "github",
+      "skillPath": "skills/write-spec/SKILL.md",
+      "computedHash": "6beb687ddecf024f2b1923bec3d838f36dd7eff3b1efc8d1119123323faab79a"
+    }
+  }
+}
